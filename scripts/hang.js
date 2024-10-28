@@ -1,3 +1,5 @@
+
+
 alphabet_letters.forEach(each_letter => {
     each_letter.addEventListener("click", () => {
         const letter = each_letter.textContent;
